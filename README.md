@@ -9,3 +9,7 @@
 **Where to find me**
 
 - [My Blog](https://calpa.me/)
+- [Telegram](https://t.me/calpaliu/)
+- [Email](mailto:calpaliu@gmail.com)
+
+If you like my projects, please don't hesitate to subscribe me by clicking the "Follow" Button.
