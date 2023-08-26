@@ -5,7 +5,6 @@
 - Full Stack Developer
 
 **Skills**
-- PHP Laravel
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js, Python, PostgreSQL, MySQL, Redis, Neo4j
 - Markdown Fans
