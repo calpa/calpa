@@ -2,7 +2,7 @@
 
 **I am a...**
 
-- Full Stack Developer
+- Systems Architect
 
 **Skills**
 - Frontend: HTML5, CSS3, JavaScript
