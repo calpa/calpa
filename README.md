@@ -6,79 +6,83 @@
 
 ## 🚀 About Me
 
-Systems Architect specializing in AI Applications, Edge Computing, and Multi-chain Development. Building the future with TypeScript, AI, and blockchain technologies.
+Systems Architect | AI Explorer | Web3 Builder  
+Crafting intelligent systems at the edge with **TypeScript**, **AI**, and **Multi-chain technologies**.
 
-```typescript
-interface TechProfile {
-    role: string;
-    location: string;
-    expertise: string[];
-    tech: {
-        ai: string[];
-        cloud: string[];
-        blockchain: string[];
-    };
-    contact: string;
+🏆 2nd Place Winner @ ETHGlobal Taipei 2025 – *Best Portfolio Tracker with 1inch*  
+🔗 Project: [OrbitGO – Treasury in Motion](https://github.com/calpa)
+
+```ts
+interface CalpaProfile {
+  role: "Systems Architect";
+  focus: ["AI Applications", "Edge Computing", "Web3"];
+  stack: {
+    ai: string[];
+    cloud: string[];
+    blockchain: string[];
+  };
+  location: "Taiwan 🌏";
+  contact: string;
 }
 
-const calpa: TechProfile = {
-    role: "Systems Architect",
-    location: "Edge Computing Space 🌎",
-    expertise: ["AI Systems", "Edge Computing", "Multi-chain"],
-    tech: {
-        ai: ["Windsurf", "Dify.AI", "OpenAI", "Claude"],
-        cloud: ["Cloudflare Workers", "KV Storage", "Pages"],
-        blockchain: ["Ethereum", "Solana", "Web3.js"]
-    },
-    contact: "calpaliu@gmail.com"
+const calpa: CalpaProfile = {
+  role: "Systems Architect",
+  focus: ["AI Applications", "Edge Computing", "Web3"],
+  stack: {
+    ai: ["Windsurf", "Dify.AI", "OpenAI", "Claude", "Pinecone"],
+    cloud: ["Cloudflare Workers", "KV Storage", "R2", "Pages"],
+    blockchain: ["Ethereum", "Solana", "Web3.js", "Ethers.js", "Foundry"]
+  },
+  location: "Taiwan 🌏",
+  contact: "calpaliu@gmail.com"
 };
 ```
 
-## 🛠️ Tech Stack
+---
 
-### 🤖 AI & Development Tools
-- Windsurf (AI-powered IDE)
-- Dify.AI Platform
-- OpenAI & Claude Integration
-- Vector Databases (Pinecone)
-- AI-Powered Applications
+## 🧠 Tech Stack & Specialties
 
-### ☁️ Cloud & Edge Computing
-- Cloudflare Ecosystem
-  - Workers (Serverless)
-  - KV Storage
-  - Pages
-  - R2 Storage
-- Edge Computing & CDN
-- Serverless Architecture
+### 🤖 AI & Agent Systems
+- Windsurf – AI IDE for flow-based agent design  
+- Dify.AI – AI App Framework with RAG & Chat flows  
+- OpenAI / Claude Integration  
+- Pinecone – Vector Database for Semantic Search  
+- Custom AI-powered blogging systems
 
-### 🔧 Core Development
-- TypeScript & Node.js Expert
-- Modern JavaScript (ES2023+)
-- React.js & Next.js
-- REST & GraphQL APIs
+### ☁️ Cloud & Edge Infrastructure
+- **Cloudflare Workers** – Serverless compute at the edge  
+- KV / R2 / Durable Objects – Storage at global scale  
+- Static site generation with Astro  
+- CDN, caching, and image optimization
 
-### 🌐 Blockchain Development
-- Ethereum Development
-  - Web3.js / Ethers.js
-  - Smart Contracts (Solidity)
-  - DeFi Protocols
-- Solana Ecosystem
-  - SPL Tokens
-  - DApp Integration
-- Multi-chain Development
+### 💻 Full-stack Engineering
+- TypeScript, Node.js (ES2023+)  
+- React.js, Next.js, Tailwind CSS  
+- REST / GraphQL APIs  
+- PostgreSQL / MySQL / Redis  
+- Docker / Kubernetes / CI/CD pipelines
 
-### 🏗️ Infrastructure
-- PostgreSQL | MySQL | Redis
-- Docker & Kubernetes
-- CI/CD Pipelines
-- Infrastructure as Code
+### 🌐 Blockchain & DeFi
+- **Multi-chain DApp** development (Ethereum + Solana)  
+- Solidity Smart Contracts, Foundry Framework  
+- Web3.js / Ethers.js / SPL Token Integration  
+- On-chain treasury dashboards  
+- DeFi Protocol Interoperability (1inch, Uniswap, Aave...)
 
-## 🌟 Featured Projects
+---
 
-- 🤖 [AI-Enhanced Blog](https://calpa.me/) - Personal tech hub powered by Windsurf and Dify.AI
-- ⚡ [Edge Computing Solutions](https://calpa.me/blog/) - Cloudflare Workers and Edge Computing implementations
-- 🔗 [Multi-chain DApps](https://github.com/calpa) - DeFi applications on Ethereum and Solana
+## 🏗️ Highlight Projects
+
+- 🔭 **[OrbitGO – Treasury in Motion](https://github.com/calpa)**  
+  ETHGlobal Taipei Award-winning multichain treasury dashboard.  
+
+- 📖 **[AI-Enhanced Blog](https://calpa.me/)**  
+  Personal knowledge base powered by AI agents & markdown pipelines.
+
+- 🌐 **[Edge Computing Solutions](https://calpa.me/blog/)**  
+  Real-world implementations with Cloudflare Workers.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -86,17 +90,18 @@ const calpa: TechProfile = {
   <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=calpa&show_icons=true&hide_border=true&icon_color=58a6ff&title_color=58a6ff&include_all_commits=true&hide_title=true&theme=dark" />
 </div>
 
-## 🤝 Connect With Me
+---
 
-- 🌐 [Personal Website](https://calpa.me)
-- 📱 [Telegram](https://t.me/calpaliu)
+## 🤝 Let's Connect
+
+- 🌐 [Website](https://calpa.me)
+- 💬 [Telegram](https://t.me/calpaliu)
 - 📧 [Email](mailto:calpaliu@gmail.com)
 - 💼 [GitHub](https://github.com/calpa)
 
 ---
 
 <div align="center">
-  <i>Building intelligent systems with AI and Multi-chain technologies ⚡️</i>
-  
-  ![](https://komarev.com/ghpvc/?username=calpa&color=blue)
+  <i>Building intelligent, decentralized systems – one block at a time 🧠⚡️</i>  
+  <img src="https://komarev.com/ghpvc/?username=calpa&color=blue" />
 </div>
