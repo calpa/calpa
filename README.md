@@ -1,4 +1,4 @@
-# 👋 Hello AI & Web3 World! I'm [Calpa](https://calpa.me)
+# 👋 Hello AI World! I'm [Calpa](https://calpa.me)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=calpa&row=2&column=3&theme=onedark" alt="GitHub Profile Trophies" />
@@ -6,17 +6,11 @@
 
 ## 🚀 About Me
 
-**Systems Architect** | **Web3 Builder**
+**Systems Architect** | **AI Builder**
 
-Crafting intelligent systems at the edge using **TypeScript**, **AI**, and **multi-chain technologies**.
-
-🏆 _2nd Place Winner @ ETHGlobal Taipei 2025_ — Best Portfolio Tracker with 1inch  
-🔗 Project: [OrbitGO – Treasury in Motion](https://github.com/calpa)
+Crafting intelligent systems at the edge using **TypeScript** and **AI**.
 
 ## 🏗️ Highlight Projects
-
-- 🔭 **[OrbitGO – Treasury in Motion](https://github.com/calpa)**  
-  _Award-winning multichain treasury dashboard for real-time asset tracking and analytics._
 
 - 📖 **[AI-Enhanced Blog](https://calpa.me/)**  
   _Personal knowledge base powered by AI agents and markdown pipelines._
@@ -55,13 +49,6 @@ Crafting intelligent systems at the edge using **TypeScript**, **AI**, and **mul
 - **PostgreSQL / MySQL / Redis**
 - **Docker / Kubernetes / CI/CD**
 
-### 🌐 Blockchain & DeFi
-
-- **Multi-chain DApp** development (Ethereum & Solana)
-- **Solidity Smart Contracts**, **Foundry Framework**
-- **Web3.js / Ethers.js / SPL Token** integration
-- **DeFi protocol interoperability** (1inch, Uniswap, Aave, ...)
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -76,7 +63,7 @@ Crafting intelligent systems at the edge using **TypeScript**, **AI**, and **mul
 - 💼 [GitHub](https://github.com/calpa)
 
 <div align="center">
-  <i>Building intelligent, decentralized systems – one block at a time 🧠⚡️</i><br>
+  <i>Building intelligent systems – one step at a time</i><br>
   <b>Open to collaborations and new opportunities!</b><br>
   <img src="https://komarev.com/ghpvc/?username=calpa&color=blue" alt="Profile Views" />
 </div>
